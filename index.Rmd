@@ -1,11 +1,11 @@
 ---
-title: "Holy cow!"
+title: "My Website"
 ---
 
-### I have a webpage!
+### I made a website!
 
 And I can put all kinds of stuff on it!
 
-## Pictures
+### Pictures
 
 <img src="images/image.jpg" style="width:75%">
