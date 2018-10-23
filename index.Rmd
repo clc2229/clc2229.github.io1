@@ -6,6 +6,6 @@ title: "My Website"
 
 And I can put all kinds of stuff on it!
 
-### Pictures
+Look at my picture.
 
 <img src="images/image.jpg" style="width:75%">
